@@ -1,7 +1,7 @@
 # 👋 Hola, soy Leandro
 
 **Data Science & AI · iOS & Flutter · Web (Next.js + TypeScript)**  
-Ingeniero de Sistemas · Ingeniero Industrial — Colombia
+Ingeniero de Sistemas · Ingeniero Industrial 
 
 Desarrollo soluciones de datos e inteligencia artificial de punta a punta (ingesta, modelado, entrenamiento y despliegue) e integro resultados en aplicaciones móviles y web listas para producción.
 
