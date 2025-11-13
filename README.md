@@ -51,5 +51,5 @@ Bot automatizado con modelos de ML para predicción de tendencias. Backtesting, 
 - Portfolio: http://msk8kg844gk8ww48w8c48ksw.31.97.138.249.sslip.io/
 - LinkedIn: https://www.linkedin.com/in/leo-b-29bab9389
 - GitHub: https://github.com/deepmindneural
-- Email: *(añade aquí tu correo si quieres mostrarlo públicamente)*
+
 
