@@ -17,6 +17,6 @@ Desarrollo soluciones de datos e IA de punta a punta (ingesta, modelado, entrena
 - **Dev/Ops:** Git, Docker
 
 ## 📬 Contacto
-- Email: tu.email@dominio.com  
-- LinkedIn: https://www.linkedin.com/in/TU_USUARIO  
-- GitHub: https://github.com/TU_USUARIO
+- Email: (http://msk8kg844gk8ww48w8c48ksw.31.97.138.249.sslip.io/  
+- LinkedIn: https://www.linkedin.com/in/leo-b-29bab9389
+- GitHub: https://github.com/deepmindneural
